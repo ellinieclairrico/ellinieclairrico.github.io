@@ -34,7 +34,7 @@ section.banner {
     height: 38vh;
 }
 #home-header {
-    background: #fff url(../images/nail.jpg) no-repeat;
+    background: #fff url(../images/inde.jpg) no-repeat;
     padding: 20px;
     background-attachment: fixed;
     background-size: cover;
@@ -72,7 +72,7 @@ nav-container {
 }
 h1 
 {
-    color: #2a5678;
+    color: #ff8ad0;
     font-size: 100px;
     margin-top: 150px;
     text-align: center;
@@ -92,7 +92,7 @@ body, form, input, textarea {
     font-family: 'Montserrat', sans-serif;
 }
 section.about-section {
-    background: url(../images/sanaol.jpg); 
+    background: url(../images/cactus.jpg); 
     color: #fff;
     text-align: right;
     padding: 57px;
@@ -145,7 +145,7 @@ section#skills .col {
     font-size: 87px;
 }
 section#skills {
-    background: url(../images/salon.jpg);
+    background: url(../images/pine.jpg);
     color: #fdf8f8;
     background-size: cover;
     background-attachment: fixed;
@@ -161,7 +161,7 @@ section.quote {
 
 /* Contact Styles */
 section#contact {
-    background: url('../images/ant.jpg') no-repeat;
+    background: url('../images/donut.jpg') no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
